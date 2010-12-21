@@ -1,0 +1,11 @@
+
+@ high level sysnthesis with SOC 
+
+1. ILP (integer_linear_programming scheduling)
+   perl main_ILP.pl
+http://funningboy.blogspot.com/2010/12/force-directed-scheduling-with-golden.html
+http://funningboy.blogspot.com/2010/12/force-directed-scheduling-with-high.html
+
+2. FD  (forece directed scheduling)
+   perl main_FD.pl
+http://funningboy.blogspot.com/2010/12/ilp-scheduling-with-dvfs-constrain-perl.html
